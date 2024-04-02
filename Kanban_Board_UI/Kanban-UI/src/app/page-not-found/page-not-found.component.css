@@ -1,0 +1,36 @@
+.mainbox {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding-top: 100px;
+    color: rebeccapurple;
+}
+section {
+    display: flex;
+    justify-content: center;
+}
+.err {
+  font-family: cursive;
+  font-size: 200px;
+  padding-top: 70px;
+} 
+.far {
+  font-size: 150px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.msg {
+    padding-top: 50px;
+    font-family: cursive;
+    font-size: 20px;  
+}
+.msg p {
+    padding-top: 20px;
+}
+a {
+  text-decoration: none;
+  color: blue;
+}
+a:hover {
+  text-decoration: underline;
+}
